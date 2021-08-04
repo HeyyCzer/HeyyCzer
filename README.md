@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=heyyczer&color=lightgrey&label=Visitas)
+![](https://komarev.com/ghpvc/?username=HeyyCzer&color=lightgrey&label=Visitas)
 <h1 align="center"><p style="color:lightgrey">Rafael - HeyyCzer</p></h1>
 
 
@@ -12,7 +12,7 @@ Meu nome é Rafael, tenho ? anos. Sou desenvolvedor Java (mediano) e desenvolved
 <table align='right'>
   <row>
     <td>
-      <img height='172' src='https://github-readme-stats.vercel.app/api?username=heyyczer&show_icons=true&theme=dark'>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&theme=dark'>
     </td>
   </row>
 </table>
@@ -23,4 +23,4 @@ Meu nome é Rafael, tenho ? anos. Sou desenvolvedor Java (mediano) e desenvolved
   </a> &nbsp;&nbsp;&nbsp; 
   
 
-![Snake animation](https://github.com/heyyczer/heyyczer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-contribution-grid-snake.svg)
