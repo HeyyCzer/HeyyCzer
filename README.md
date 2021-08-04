@@ -1,16 +1,26 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=rhaynnelopes&color=lightgrey&label=visitas)
+<h1 align="center"><p style="color:lightgrey">Rafael - HeyyCzer</p></h1>
 
-<!--
-**HeyyCzer/HeyyCzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1> 🧙🏻 Quem sou eu? </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Rafael, tenho ? anos. Sou desenvolvedor Java (mediano) e desenvolvedor Lua para FiveM, MTA e afins (expert). 
+<br> <br/>
+
+<h1> Vamos bater um papo? </h1> 
+
+<table align='right'>
+  <row>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=heyyczer&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table>
+
+
+<a href="https://discord.gg/metropole">
+    <img height='53' img alt="E-mail" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png">
+  </a> &nbsp;&nbsp;&nbsp; 
+  
+
+![Snake animation](https://github.com/heyyczer/heyyczer/blob/output/github-contribution-grid-snake.svg)
