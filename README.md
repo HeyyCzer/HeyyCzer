@@ -23,4 +23,4 @@ Meu nome é Rafael, tenho ? anos. Sou desenvolvedor Java (mediano) e desenvolved
   </a> &nbsp;&nbsp;&nbsp; 
   
 
-![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-contribution-grid-snake.svg)
