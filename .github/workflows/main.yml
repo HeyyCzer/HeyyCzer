@@ -12,7 +12,7 @@ jobs:
     steps:
       # Snake Animation
       - name: generate-snake-game-from-github-contribution-grid
-      - uses: Platane/snk@master
+        uses: Platane/snk@master
         with:
           github_user_name: HeyyCzer
           svg_out_path: dist/github-contribution-grid-snake.svg
