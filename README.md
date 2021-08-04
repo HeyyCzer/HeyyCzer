@@ -3,7 +3,7 @@
 
 <h1> 🌎 Quem sou eu? </h1>
 
-Meu nome é Rafael, tenho ? anos. Sou desenvolvedor Java (mediano) e desenvolvedor Lua para FiveM, MTA e afins (expert). 
+Meu nome é Rafael, tenho ? anos. Sou desenvolvedor Java (mediano) e desenvolvedor Lua para FiveM, MTA e afins (expert). Não tenho muitos repositórios públicos, até porque prefiro fazer projetos privados.
 <br> <br/>
 
 <h1> 👦 Contato </h1> 
