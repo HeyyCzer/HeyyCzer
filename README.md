@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=heyyczer&color=lightgrey&label=visitas)
+![](https://komarev.com/ghpvc/?username=heyyczer&color=lightgrey&label=Visitas)
 <h1 align="center"><p style="color:lightgrey">Rafael - HeyyCzer</p></h1>
 
 
