@@ -1,5 +1,5 @@
 <h1 align="center"><p style="color:lightgrey">Rafael - HeyyCzer</p></h1>
-![](https://komarev.com/ghpvc/?username=HeyyCzer&color=lightgrey&label=Visitas)
+<img src="https://komarev.com/ghpvc/?username=HeyyCzer&color=lightgrey&label=Visitas" alt="Visitas">
 
 <h1> 🌎 Quem sou eu? </h1>
 
