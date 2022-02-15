@@ -18,8 +18,6 @@ Meu nome é Rafael, tenho ? anos. Sou desenvolvedor Java e Lua (FiveM, MTA e afi
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-<h1> 👦 Contato </h1> 
-
 <table align='right'>
   <row>
     <td>
