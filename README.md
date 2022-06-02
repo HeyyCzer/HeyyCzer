@@ -3,7 +3,7 @@
 
 <h1> 🌎 Quem sou eu? </h1>
 
-Meu nome é Rafael, tenho ? anos. Sou desenvolvedor Java e Lua (FiveM, MTA e afins). Não tenho muitos repositórios públicos, até porque prefiro fazer projetos privados.
+Meu nome é Rafael, tenho 17 anos. Sou desenvolvedor Java e Lua (FiveM, MTA e afins). Não tenho muitos repositórios públicos, até porque prefiro fazer projetos privados.
 <br> <br/>
 
 <h1> Skills </h1>
