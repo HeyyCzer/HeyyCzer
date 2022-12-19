@@ -1,8 +1,8 @@
-name: Generate Datas
+name: Update stats
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 2 days
+    - cron: "0 0 */2 * *"
   workflow_dispatch:
 
 jobs:
