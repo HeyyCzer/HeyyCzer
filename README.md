@@ -23,7 +23,7 @@ Meu nome é Rafael, tenho 17 anos. Sou desenvolvedor Java e Lua (principalmente 
 <table align='right'>
   <row>
     <td>
-      <img id="tableStats" height='172' src='https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&locale=pt-br&theme=dark'>
+      <img id="tableStats" height='172' src='https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&locale=pt-br&theme=react'>
     </td>
   </row>
 </table>
