@@ -16,9 +16,6 @@ Meu nome é Rafael, tenho 17 anos. Sou desenvolvedor Java e Lua (principalmente 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20afteraffects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 <table align='right'>
   <row>
