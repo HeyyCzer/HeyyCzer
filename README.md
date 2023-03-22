@@ -1,12 +1,10 @@
-<h1 align="center"><p style="color:lightgrey">Rafael - HeyyCzer</p></h1>
-<img src="https://komarev.com/ghpvc/?username=HeyyCzer&color=lightgrey&label=Visitas" alt="Visitas">
+# 🌎 Sobre mim
 
-<h1> 🌎 Quem sou eu? </h1>
+Meu nome é Rafael, tenho 17 anos e sou Desenvolvedor Full-Stack por hobby. Iniciei no ramo dos jogos (e atualmente trabalho com eles no tempo livre) mas também tenho conhecimento do desenvolvimento fora deles.
 
-Meu nome é Rafael, tenho 17 anos. Sou desenvolvedor Java e Lua (principalmente voltado para FiveM). Não tenho muitos repositórios públicos, pois a maioria de meus projetos são privados :(
-<br> <br/>
+Espero que goste dos repositórios públicos, a maioria são projetos mais antigos mas vale a pena conferí-los.
 
-<h1> Skills </h1>
+# 🚀 Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -17,14 +15,16 @@ Meu nome é Rafael, tenho 17 anos. Sou desenvolvedor Java e Lua (principalmente 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<table align='right'>
-  <row>
-    <td>
-      <img id="tableStats" height='172' src='https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=react'>
-    </td>
-  </row>
-</table>
-  
-<h1> 🎫 Commits </h1>
+<picture>
+	<source 
+	srcset="https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=react"
+	media="(prefers-color-scheme: dark)"
+	/>
+	<source
+	srcset="https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br" />
+</picture>
 
 ![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-contribution-grid-snake.svg)
