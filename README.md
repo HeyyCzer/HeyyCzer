@@ -15,16 +15,9 @@ Espero que goste dos repositórios públicos, a maioria são projetos mais antig
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<picture>
-	<source 
-	srcset="https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=react"
-	media="(prefers-color-scheme: dark)"
-	/>
-	<source
-	srcset="https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br"
-	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	/>
-	<img src="https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br" />
-</picture>
+---
+
+![Stats Dark](https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=react#gh-dark-mode-only)
+![Stats Light](https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br#gh-light-mode-only)
 
 ![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-contribution-grid-snake.svg)
