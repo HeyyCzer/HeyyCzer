@@ -17,7 +17,6 @@ Espero que goste dos repositórios públicos, a maioria são projetos mais antig
 
 ---
 
-![Stats Dark](https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=react#gh-dark-mode-only)
-![Stats Light](https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br#gh-light-mode-only)
+[![Stats](https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&theme=react)](https://github.com/HeyyCzer)
 
-![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-contribution-grid-snake.svg)](https://github.com/HeyyCzer)
