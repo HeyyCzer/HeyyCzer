@@ -19,4 +19,4 @@ Espero que goste dos repositórios públicos, a maioria são projetos mais antig
 
 [![Stats](https://stats.heyyczer.com/?username=HeyyCzer&show_icons=true&count_private=true&locale=pt-br&theme=react)](https://github.com/HeyyCzer)
 
-[![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-contribution-grid-snake.svg)](https://github.com/HeyyCzer)
+[![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/dist/github-contribution-grid-snake.svg)](https://github.com/HeyyCzer)
