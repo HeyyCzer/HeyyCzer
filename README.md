@@ -1,6 +1,6 @@
 # 🌎 Sobre mim
 
-Meu nome é Rafael, tenho 18 anos e sou Desenvolvedor por hobby. Iniciei no ramo dos jogos (e atualmente trabalho com eles no tempo livre) mas também tenho conhecimento do desenvolvimento fora deles.
+Meu nome é Rafael, tenho 18 anos e sou Desenvolvedor. Iniciei no ramo dos jogos (e atualmente trabalho com eles no tempo livre) mas também tenho conhecimento do desenvolvimento fora deles.
 
 Espero que goste dos repositórios públicos, a maioria são projetos mais antigos mas vale a pena conferí-los.
 
