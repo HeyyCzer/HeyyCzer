@@ -17,6 +17,6 @@ Espero que goste dos repositórios públicos, a maioria são projetos mais antig
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&locale=pt-br&theme=react)](https://github.com/HeyyCzer)
+[![Stats](https://github-stats-seven-virid.vercel.app/api?username=HeyyCzer&show_icons=true&count_private=true&locale=pt-br&theme=react)](https://github.com/HeyyCzer)
 
 [![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/dist/github-contribution-grid-snake-dark.svg)](https://github.com/HeyyCzer)
