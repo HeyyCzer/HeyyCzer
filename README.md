@@ -1,20 +1,19 @@
-# 🌎 Sobre mim
+# Bem-vindo ao meu perfil! 👋
 
-Meu nome é Rafael, tenho 18 anos e sou Desenvolvedor. Iniciei no ramo dos jogos (e atualmente trabalho com eles no tempo livre) mas também tenho conhecimento do desenvolvimento fora deles.
+Olá, me chamo Rafael, mas também sou conhecido como [HeyyCzer](https://github.com/HeyyCzer)! 👨‍💻
 
-Espero que goste dos repositórios públicos, a maioria são projetos mais antigos mas vale a pena conferí-los.
+## Sobre mim
 
-# 🚀 Skills
+- 🎓 Atualmente cursando Ciência da Computação.
+- 💼 Tenho 4 anos de experiência em programação.
+- ⚙️ Tecnologias: Node.js, Next.js, React, Java, Lua, MySQL/MariaDB e MongoDB.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Skill Badges](https://skillicons.dev/icons?i=js,html,css,react,nextjs,lua,java,mysql,mongodb,docker,linux)
+## GitHub Stats
 
----
+[![HeyyCzer's GitHub Stats](https://github-stats-heyyczer.vercel.app/api?username=HeyyCzer&show_icons=true&theme=github_dark&locale=pt-br)](https://github.com/HeyyCzer)
+[![HeyyCzer's Top Langs](https://github-stats-heyyczer.vercel.app/api/top-langs/?username=HeyyCzer&theme=github_dark&locale=pt-br&layout=compact)](https://github.com/HeyyCzer)
 
-[![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/dist/github-contribution-grid-snake-dark.svg)](https://github.com/HeyyCzer)
+## Commit Snake 🐍
+
+![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/dist/github-contribution-grid-snake-dark.svg)
