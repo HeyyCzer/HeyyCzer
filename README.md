@@ -8,7 +8,7 @@ Olá, me chamo Rafael, mas também sou conhecido como [HeyyCzer](https://github.
 - 💼 Tenho 4 anos de experiência em programação.
 - ⚙️ Tecnologias: Node.js, Next.js, React, Java, Lua, MySQL/MariaDB e MongoDB.
 
-![Skill Badges](https://skillicons.dev/icons?i=js,html,css,react,nextjs,lua,java,mysql,mongodb,docker,linux)
+![Skill Badges](https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,lua,java,mysql,mongodb,docker,linux)
 ## GitHub Stats
 
 [![HeyyCzer's GitHub Stats](https://github-stats-heyyczer.vercel.app/api?username=HeyyCzer&show_icons=true&theme=github_dark&locale=pt-br)](https://github.com/HeyyCzer)
