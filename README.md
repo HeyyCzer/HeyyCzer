@@ -14,6 +14,9 @@ Olá, me chamo Rafael, mas também sou conhecido como [HeyyCzer](https://github.
 [![HeyyCzer's GitHub Stats](https://github-stats-heyyczer.vercel.app/api?username=HeyyCzer&show_icons=true&theme=github_dark&locale=pt-br)](https://github.com/HeyyCzer)
 [![HeyyCzer's Top Langs](https://github-stats-heyyczer.vercel.app/api/top-langs/?username=HeyyCzer&theme=github_dark&locale=pt-br&layout=compact)](https://github.com/HeyyCzer)
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/297439129090785280)](https://discord.com/users/297439129090785280)
+
 ## Commit Snake 🐍
 
 ![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/dist/github-contribution-grid-snake-dark.svg)
