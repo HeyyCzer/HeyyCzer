@@ -21,4 +21,4 @@ Hi there, I'm Rafael, but you can also call me [Hey](https://github.com/HeyyCzer
 
 ## Commit Snake 🐍
 
-![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-snake.svg)
