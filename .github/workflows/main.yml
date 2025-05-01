@@ -27,7 +27,8 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
-            dist/github-snake.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#e11d48&color_dots=#93c5fd,#60a5fa,#3b82f6,#2563eb,#1d4ed8
+            dist/github-snake-light.svg?palette=github-light&color_snake=#e11d48&color_dots=#93c5fd,#60a5fa,#3b82f6,#2563eb,#1d4ed8
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
