@@ -21,4 +21,8 @@ Hi there, I'm Rafael, but you can also call me [Hey](https://github.com/HeyyCzer
 
 ## Commit Snake 🐍
 
-![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HeyyCzer/HeyyCzer/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HeyyCzer/HeyyCzer/blob/output/github-snake-light.svg">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/HeyyCzer/HeyyCzer/blob/output/github-snake-dark.svg">
+</picture>
