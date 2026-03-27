@@ -12,8 +12,8 @@ Hi there, I'm Rafael, but you can also call me [Hey](https://github.com/HeyyCzer
 
 ## GitHub Stats
 
-[![HeyyCzer's GitHub Stats](https://github-stats-heyyczer.vercel.app/api?username=HeyyCzer&show_icons=true&theme=github_dark&locale=en)](https://github.com/HeyyCzer)
-[![HeyyCzer's Top Langs](https://github-stats-heyyczer.vercel.app/api/top-langs/?username=HeyyCzer&theme=github_dark&locale=en&layout=compact)](https://github.com/HeyyCzer)
+[![HeyyCzer's GitHub Stats](https://github.com/HeyyCzer/HeyyCzer/blob/output/stats.svg)](https://github.com/HeyyCzer)
+[![HeyyCzer's Top Langs](https://github.com/HeyyCzer/HeyyCzer/blob/output/top-langs.svg)](https://github.com/HeyyCzer)
 
 ## Discord
 

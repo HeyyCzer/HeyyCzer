@@ -10,6 +10,11 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+    
+      - name: Create dist folder
+        run: mkdir dist
+
       # Snake Animation
       - uses: Platane/snk@v3
         with:
@@ -30,7 +35,25 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-light.svg?palette=github-light
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Stats card
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&locale=en
+          path: dist/stats.svg
+          token: ${{ secrets.PAT }}
+
+      # Top langs card
+      - name: Generate top-langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=github_dark&locale=en&layout=compact
+          path: dist/top-langs.svg
+          token: ${{ secrets.PAT }}
+
+      - name: Push cards to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
